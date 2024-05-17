@@ -80,6 +80,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need further assistance, feel free to reach out to the repository owner at [tackletalha@gmail.com](mailto:tackletalha@gmail.com).
 
 Happy coding!
-
----
-**Note:** Remember to replace `your-username` with your actual GitHub username and `your-email@example.com` with your email address in the relevant sections.
